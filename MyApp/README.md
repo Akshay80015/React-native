@@ -162,3 +162,14 @@ Follow our [Maestro Setup](https://ignitecookbook.com/docs/recipes/MaestroSetup)
 - [2018 aka Bowser](https://github.com/infinitered/ignite-bowser)
 - [2017 aka Andross](https://github.com/infinitered/ignite-andross)
 - [2016 aka Ignite 1.0](https://github.com/infinitered/ignite-ir-boilerplate-2016)
+
+- Step by Step Breakdown of Task:
+Step 1: Generate the React Native Application
+1. Visit the Ignite GitHub repository at https://github.com/infinitered/ignite.
+2. Follow the instructions provided to install Ignite CLI.
+3. Use the Ignite boilerplate to generate a new React Native application.
+Step 2: Set Up the Environment
+1. Ensure the React Native development environment is properly set up on your machine.
+2. Install Maestro and any other necessary dependencies for testing.
+Step 3: Write Maestro Tests
+1. Familiarize yourself with Maestro’s syntax and features.
